@@ -29,7 +29,7 @@ docker-compose up
 ### Stop
 
 ```
-docker-compose stop
+docker-compose down
 ```
 
 ### Remove compose containers
